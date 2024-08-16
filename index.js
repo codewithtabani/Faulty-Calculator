@@ -11,8 +11,6 @@ let obj = {
     '/' : '**'
 }
 
-console.log(random);
-
 
 if (random > 0.1) {
     alert(`The result is ${eval(`${number1} ${operation} ${number2}`)}`)
